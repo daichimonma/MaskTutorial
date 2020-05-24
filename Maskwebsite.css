@@ -1,0 +1,47 @@
+        body {
+            background-color: #F4F4F4;
+        }
+        h1 {
+            text-align: center;
+        color: #F4F4F4;
+            padding: 20px;
+            background-color: #232D4B;
+            margin: 0px;
+        }
+
+        #links {
+            background-color: #232D4B;
+            border-bottom: 8px solid #F84C1E;
+            padding-left: 60px;
+         }
+         #toplinks{
+             padding-right: 30px;
+         }
+
+        #bottom{
+            height: 100px;
+            margin:auto;
+            background-color: #232D4B
+        }
+        #modelpic {
+            width: 380px;
+            padding:10px;
+            margin: auto;
+        }
+        
+        img {
+            width: 300px;
+           padding: 10px;
+           margin: auto;
+        }
+
+        ol, li, h2, h3, h4 {
+            width:550px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        p {
+            width:550px;
+            margin: auto;
+            
+        }
